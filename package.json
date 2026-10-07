@@ -1,0 +1,16 @@
+{
+  "name": "ensaio",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node serve.mjs",
+    "test": "node checks/flows.cjs"
+  },
+  "dependencies": {
+    "@spotify/basic-pitch": "1.0.1",
+    "@tensorflow/tfjs": "4.22.0",
+    "@huggingface/transformers": "3.8.1",
+    "@coderline/alphatab": "1.6.3",
+    "esbuild": "0.25.11"
+  }
+}
