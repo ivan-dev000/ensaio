@@ -1,6 +1,6 @@
 # Ensaio — primeira versão
 
-Aplicação web responsiva para organizar repertório, prática musical, acordes e ideias. O GuitarFlux foi usado como referência funcional a partir de sua página pública. O painel autenticado não foi acessado, portanto esta versão não pretende reproduzir seu layout exato.
+Aplicação web responsiva para organizar repertório, prática musical, acordes e ideias.
 
 ## Funcionalidades
 
